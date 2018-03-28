@@ -1,2 +1,1 @@
-# gitTR
-Program Examples
+This is an MVC about me page I built using Visual Studio, I did not load the NuGet Packages to save space; You will have to upload them to your project to make it run correctly.  You will also need to Make a SendGrid account, that’s what i did for authentication.  You can also remove the authorize tags in the home controller if you want to avoid using SendGrid.
